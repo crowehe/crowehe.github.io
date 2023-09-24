@@ -1,0 +1,56 @@
+# crowehe.github.io
+		body {
+		font-family: Georgia, serif;
+		color: black;
+		background-color: lightblue;
+		background-image: url('daisytransparentimage.png');
+		background-repeat: repeat;
+	}
+
+	< div class= "boxed " >
+	.boxed{
+		background-color: rgba(255, 255, 153, 0.6);
+		border-radius: 10px;
+		padding: 20px;
+	}
+
+	h1 {
+		font-size: 36px;
+		text-align: center;
+		color: black;
+		line-height: 1.2em;
+		}
+	
+	#intro p {
+		font-size: 20px;
+		text-align: center;
+		color: black;
+		line-height: 1.2em;
+	}
+
+	#info {
+    	background-color: rgba(255, 255, 153, 0.6);
+    	padding: 20px;
+    	border-radius: 10px;
+	}
+
+	#education p {
+		font-size: 20px;
+		color: black;
+		line-height: 1.2em;
+	}
+
+	h2 {
+		font-size: 25px;
+		text-align: center;
+		color: black;
+		line-height: 1.2em;
+		text-decoration: underline;
+	}
+
+	p {
+		font-size: 25px;
+		color: black;
+		line-height: 1.2em;
+	}
+
