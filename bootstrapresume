@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="SMAD 307 Bootstrap Resume Assignment">
+    <meta name="author" content="Hannah Crowe">
+    <title>Hannah Crowe Bootstrap Resume</title>
+
+    <!-- LOAD BOOTSTRAP CSS - DO NOT DELETE -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    <!-- END LOADING BOOTSTRAP CSS -->
+
+    
+    <!-- Custom styles -->
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <p> 
+    </p>
+    <p> 
+    </p>
+    
+    <div class="container">
+      <header class="row">
+          <div class="col-md-3">
+            <img src="https://www.jmu.edu/_images/news/2023/halftime-on-quad-blue-sky-1000x600.jpg" alt="JMU Quad Picture">
+
+          </div> <!-- end logo -->
+
+
+      </header> <!-- end row header -->
+
+      <div class="row" >
+          <div class="col-md-12" center>
+            <h1 class="display-4">Hannah Crowe</h1>
+      </div> <!-- end row here -->
+
+      <div class="row">
+          <div class="col-md-4 center jmu" >
+              <p class="lead">James Madison University</p>
+            </div>
+          <div class="col-md-4 center rva" >
+              <p class="lead">Richmond, VA</p>
+            </div>
+          <div class="col-md-4 center smad">
+              <p class="lead">School of Media Arts and Design: Interactive Design Concentration</p>
+
+          </div> <!-- end div here -->
+
+
+
+      </div> <!-- end row here -->
+
+
+
+
+
+    </div> <!-- end div container -->
+
+<body>
+
+<h2>SKILLS</h2>
+<dl>
+  <ul>
+    <div class="row">
+    <div class="col-md-4 center micro">
+      <li>Microsoft Office</li> 
+      <li>Google Suite </li> 
+    </div>  
+    <div class="col-md-4 center figma">    
+      <li>HTML & CSS</li>
+      <li>Sublime Text</li>
+      <li>Figma</li>
+      <li>Github</li>
+      <li>OpenProcessing</li>
+    </div>
+    <div class="col-md-4 center adobe">
+      <li>Canva</li>
+      <li>Adobe Photoshop</li>
+      <li>Adobe Illustrator</li>
+      <li>Adobe InDesign</li>
+    </div>
+  </ul>
+</dl>
+
+
+<h2>EXPERIENCE</h2> 
+<dl>
+<dt>Sedona Taphouse, Hostess, Glen Allen, <var></var>2020 to 2022</dt>
+<dd>
+<ul>
+<li>Maintained professionalism for all customer service interactions, coordinated reservations with strategic planning, and managed emotions in a high stress environment </li>
+<li>Made quick decisions and learned new technology systems </li>
+<li>Communicated with guests and staff and displayed leadership when training new employees </li>
+</ul>
+</dd>
+
+<dt>SwimMetro, Head Lifeguard, Richmond, <var></var>May 2019 to September 2019</dt>
+<dd>
+<ul>
+<li>Responsible for opening and closing duties and was promoted to head lifeguard </li>
+<li>Monitored pool chemistry and managed emergency situations </li>
+<li>Communicated with guests and staff </li>
+</ul>
+</dd>
+
+<dt>BGood, Cashier/Hostess, Short Pump, <var></var>May 2018 to September 2018</dt>
+<dd>
+<ul>
+<li>Managed all front of house customer interactions </li>
+<li>Coordinated with kitchen team </li>
+<li>Accountable for all cash register exchanges and end of night receipts </li>
+</ul>
+</dd>
+</dl>
+
+
+<h2>CAMPUS INVOLVEMENT AND ACTIVITIES</h2>
+<dl>
+<dt>Phi Mu, Arts and Crafts Chairman, James Madison University <var></var>2023 to 2024</dt>
+<dd>
+<ul>
+<li>Organise, design, and execute banners specifically curated and marketed for each individual philanthrophic, social, and recruitment events </li>
+<li>Delegate tasks, communicate effectively, and manage the members of my committee </li>
+<li>Provide informative updates to members about upcoming events and correlate with other committee chairmen's scheduled events </li>
+</ul>
+</dd>
+
+<dt>Phi Mu, General Member, Gamma Theta Chapter, James Madison University <var></var>2020 to Present</dt>
+<dd>
+<ul>
+<li>Participated in fundraisers such as MadiThon and Cheesin for Children for the Children's Miracle Network Hospital at UVA </li>
+<li>Participated in recruitment of over 70 new members by conversing about sisterhood, philanthropy, and life events and attended and conversed at weekly chapter meetings with over 200 members </li>
+</ul>
+</dd>
+
+<dt><a href=https://events.dancemarathon.com/index.cfm?fuseaction=donorDrive.event&eventID=5166 target="_blank">Madithon</a>, Fundraiser, James Madison University <var></var>2020 to Present</dt>
+<dd>
+<ul>
+<li>Fundraised for the Children's Miracle Network Hospital at UVA and actively spread knowledge about the purpose of the event to promote participation and donations </li>
+<li>Participated in all 12 hours of the dance marathon and raising money every year </li>
+</ul>
+</dd>
+</dl>
+</body>
+
+<!-- LOAD BOOTSTRAP JAVASCRIPT - DO NOT DELETE -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+<!-- END LOADING BOOTSTRAP JAVASCRIPT -->
+      
+  </body>
+</html>
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+body { color: black; }
+. center { text-align: center; }
+
+.container {background-color: white;}
+.micro {background-color: lightskyblue;}
+.figma {background-color: lightpink;}
+.adobe {background-color: lightyellow;}
+
+.jmu {background-color: orchid;}
+.rva {background-color: lightgreen;}
+.smad {background-color: lightgrey;} 
